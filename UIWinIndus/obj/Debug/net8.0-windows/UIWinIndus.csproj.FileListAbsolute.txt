@@ -29,3 +29,4 @@ C:\ProyectoDesarrollo\IndusUIWin\UIWinIndus\obj\Debug\net8.0-windows\UIWinIndus.
 C:\ProyectoDesarrollo\IndusUIWin\UIWinIndus\obj\Debug\net8.0-windows\UIWinIndus.Vista.FrmUsuarios.resources
 C:\ProyectoDesarrollo\IndusUIWin\UIWinIndus\obj\Debug\net8.0-windows\UIWinIndus.Vista.FrmVenta_Proforma.resources
 C:\ProyectoDesarrollo\IndusUIWin\UIWinIndus\obj\Debug\net8.0-windows\UIWinIndus.Vista.FrmVentasHistoricas.resources
+C:\ProyectoDesarrollo\IndusUIWin\UIWinIndus\obj\Debug\net8.0-windows\UIWinIndus.sourcelink.json

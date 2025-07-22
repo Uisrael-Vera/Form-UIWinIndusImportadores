@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIWinIndus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d46aaf2837d3232919b732b6309ba3a302d7093")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIWinIndus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIWinIndus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
